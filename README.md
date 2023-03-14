@@ -5,8 +5,6 @@
 <img align ="right" alt-"Berserk" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanj33krsna&label=Profile%20views&color=0e75b6&style=flat" alt="sanj33krsna" /> </p>
-
 - 🔭 I’m currently working on **Microsoft Teams Clone(backend & frontend)**
 
 - 🌱 I’m currently learning **MEARN & preparing for CCNA**
