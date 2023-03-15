@@ -83,4 +83,4 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanj33krsna&show_icons=true&locale=en" alt="sanj33krsna" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AghoraGuru&show_icons=true&locale=en" alt="sanj33krsna" /></p>
