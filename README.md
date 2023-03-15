@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/36/04/df/3604dffdbe3042def7ddbeffefca9b03.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjay Krishna</h1>
-<h3 align="center">AI & Cyber Security enthusiast currently pursuing his B-tech on Computer Science</h3>
+<h3 align="center">AI & Cyber Security enthusiast currently pursuing his B-tech in Computer Science</h3>
 <img align ="right" alt-"Berserk" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
