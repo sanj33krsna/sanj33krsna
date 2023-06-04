@@ -24,7 +24,7 @@
 <p align="center">
   
 </p align="center">
-  <samp><strong><a href="https://github.com/sanj33krsna/Code-Bot-PowerBot">PowerBot</a></strong> - OpenAI API based chat-bot for sustainable development</samp>
+  <samp><strong><a href="https://github.com/sanj33krsna/Code-Bot-PowerBot">Artegento</a></strong> - OpenAI API based chat-bot for General Purposes</samp>
   <br>
   <samp><strong><a href="https://github.com/sanj33krsna/Seam-Carving">SeamLess</a></strong> - Web App based seam carving tool(update coming soon!)</samp>
   <br>
