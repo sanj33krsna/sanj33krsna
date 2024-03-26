@@ -4,7 +4,7 @@
 <h2 align="center"></h2>
 
 <p align="center">
-  <samp>Welcome to my GitHub profile! As a student with a passion for Cybersecurity, Quantum Computing, and emerging technologies, I am working on a few full-stack projects. I am always looking for opportunities to contribute to open-source projects, so feel free to reach out to me at <strong><a href="mailto:sanjkrsna03@gmail.com">sanjkrsna03@gmail.com</a></strong>. Let's collaborate and innovate together!</samp>
+  <samp>Welcome to my GitHub profile! A student exploring his interests, currently I am working on a few full-stack projects. I am always looking for opportunities to contribute to open-source projects, so feel free to reach out to me at <strong><a href="mailto:sanjkrsna03@gmail.com">sanjkrsna03@gmail.com</a></strong>. Let's collaborate and innovate together!</samp>
   <br> <br>
 </p> 
 
@@ -25,8 +25,4 @@
   <a target="_blank"href="https://www.linkedin.com/in/sanjay-krishna-rajmohan-menon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sanjkrsna03@gmail.com?subject=Hello%20Vi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h2  align="center">📚 Blogs</h2>
-<p align="center">
-  <samp><strong> Coming soon..... </strong></samp>
 
